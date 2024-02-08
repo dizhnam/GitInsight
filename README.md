@@ -28,8 +28,8 @@ Ensure you have the following installed:
 ### Tech Stack
 
 - **Frontend**: React, Axios, Vite
-- **Backend**: Flask, GPT-4, Astra DB
-- **Database**: Astra DB
+- **Backend**: Flask, GPT-4, Chroma DB
+- **Database**: Chroma DB
 - **Deployment**: AWS or Render, Docker (optional)
 
 ## Setup Instructions
